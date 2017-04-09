@@ -1,0 +1,29 @@
+C:\Users\Wind\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\ch341a SPI helper debugger.exe.config
+C:\Users\Wind\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\ch341a SPI helper debugger.exe
+C:\Users\Wind\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\ch341a SPI helper debugger.pdb
+C:\Users\Wind\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.spihelper.resources
+C:\Users\Wind\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\ch341aSPIHelperDebugger.Properties.Resources.resources
+C:\Users\Wind\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\ch341a SPI helper debugger.csproj.GenerateResource.Cache
+C:\Users\Wind\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\ch341a SPI helper debugger.exe
+C:\Users\Wind\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\ch341a SPI helper debugger.pdb
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\ch341a SPI helper debugger\bin\Debug\ch341a SPI helper debugger.exe.config
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\ch341a SPI helper debugger\obj\Debug\ch341a SPI helper debugger.exe
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\ch341a SPI helper debugger\obj\Debug\ch341a SPI helper debugger.pdb
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\ch341a SPI helper debugger\ch341a SPI helper debugger\bin\Debug\ch341a SPI helper debugger.exe.config
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\ch341a SPI helper debugger.exe
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\ch341a SPI helper debugger.pdb
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\ch341a SPI helper debugger\ch341a SPI helper debugger\bin\Debug\ch341a SPI helper debugger.exe
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\ch341a SPI helper debugger\ch341a SPI helper debugger\bin\Debug\ch341a SPI helper debugger.pdb
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\ch341a SPI helper debugger.csprojResolveAssemblyReference.cache
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\WindowsFormsApplication5.spihelper.resources
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\ch341aSPIHelperDebugger.Properties.Resources.resources
+C:\Users\Wind\Documents\Visual Studio 2013\Projects\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\ch341a SPI helper debugger.csproj.GenerateResource.Cache
+C:\Users\Wind\Desktop\github\ch341a SPI helper debugger\ch341a SPI helper debugger\bin\Debug\ch341a SPI helper debugger.exe.config
+C:\Users\Wind\Desktop\github\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\ch341a SPI helper debugger.exe
+C:\Users\Wind\Desktop\github\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\ch341a SPI helper debugger.pdb
+C:\Users\Wind\Desktop\github\ch341a SPI helper debugger\ch341a SPI helper debugger\bin\Debug\ch341a SPI helper debugger.exe
+C:\Users\Wind\Desktop\github\ch341a SPI helper debugger\ch341a SPI helper debugger\bin\Debug\ch341a SPI helper debugger.pdb
+C:\Users\Wind\Desktop\github\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\ch341a SPI helper debugger.csprojResolveAssemblyReference.cache
+C:\Users\Wind\Desktop\github\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\WindowsFormsApplication5.spihelper.resources
+C:\Users\Wind\Desktop\github\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\ch341aSPIHelperDebugger.Properties.Resources.resources
+C:\Users\Wind\Desktop\github\ch341a SPI helper debugger\ch341a SPI helper debugger\obj\Debug\ch341a SPI helper debugger.csproj.GenerateResource.Cache
